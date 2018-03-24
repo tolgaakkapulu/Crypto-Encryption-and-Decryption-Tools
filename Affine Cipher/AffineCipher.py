@@ -81,7 +81,7 @@ while True:
 			print("\nIncorrect choice...\n")
 
 	except AssertionError:
-		print("\nInvalid value for a =",a,". No inverse exists (mod 26)")
+		print("\nInvalid value for a =",a,". No inverse exists (mod 26)\n")
 	except ValueError:
 		print("\nInvalid value...")
 	except KeyboardInterrupt:
