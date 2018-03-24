@@ -9,9 +9,9 @@ import string
 print("")
 
 print("""############################### Affine Cipher ####################################
-#   The affine cipher is a type of monoalphabetic substitution cipher, wherein   #
+#     Affine cipher is a type of monoalphabetic substitution cipher, wherein     #
 #   each letter in an alphabet is mapped to its numeric equivalent, encrypted    #
-#   using a simple mathematical function, and converted back to a letter.        #
+#     using a simple mathematical function, and converted back to a letter.      #
 #--------------------------------------------------------------------------------#
 #                    Tolga AKKAPULU  |  Github : /tolgaakkapulu                  #
 ##################################################################################""")
@@ -30,7 +30,8 @@ print("\n---------------------------------")
 while True:
 	try:		
 		print("  (1)  Encrypt\t  (2)  Decrypt")
-		mode=input("\nMode (1 or 2)       : ")
+		print("---------------------------------")
+		mode=input("Mode (1 or 2)       : ")
 		
 		if( mode == '1'):
 			a=int(input("a (Value a for key) : "))
@@ -60,7 +61,7 @@ while True:
 				print("\nError for 'a'.\nEnter a value in the range [1,26]\n")
 				continue
 	
-			b=int(input("b (Value a for key) : "))
+			b=int(input("b (Value b for key) : "))
 			if( b<1 or 26<b ):
 				print("\nError for 'b'.\nEnter a value in the range [1,26]\n")
 				continue
