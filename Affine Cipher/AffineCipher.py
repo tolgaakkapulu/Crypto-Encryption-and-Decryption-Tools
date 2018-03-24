@@ -6,8 +6,6 @@
 from pycipher import Affine
 import string
 
-print("")
-
 print("""############################### Affine Cipher ####################################
 #     Affine cipher is a type of monoalphabetic substitution cipher, wherein     #
 #   each letter in an alphabet is mapped to its numeric equivalent, encrypted    #
