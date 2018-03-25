@@ -4,4 +4,4 @@
 
 <b>python3 Atbash.py</b>
 
-<img src="https://github.com/tolgaakkapulu/Crypto-Encryption-and-Decryption-Tools/blob/master/Atbash/Atbash.png">
+<img src="https://github.com/tolgaakkapulu/Crypto-Encryption-and-Decryption-Tools/blob/master/AtbashCipher/AtbashCipher.png">
