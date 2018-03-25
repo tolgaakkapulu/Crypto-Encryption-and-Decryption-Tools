@@ -4,5 +4,6 @@
   <li>Affine Cipher</li>
   <li>Atbash</li>
   <li>Beaufort Cipher</li>
+  <li>Bio Cryptography</li>
   <li>Caesar Cipher</li>
 </ul>
