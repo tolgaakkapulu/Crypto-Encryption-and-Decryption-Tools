@@ -9,4 +9,4 @@
 
 <b>python3 AffineCipher.py</b>
 
-<img src="https://github.com/tolgaakkapulu/CEDT-Crypto-Encryption-and-Decryption-Tools/blob/master/Affine%20Cipher/AffineCipher.png">
+<img src="https://github.com/tolgaakkapulu/CEDT-Crypto-Encryption-and-Decryption-Tools/blob/master/AffineCipher/AffineCipher.png">
